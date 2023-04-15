@@ -24,10 +24,10 @@
 
 
 <!-- Most Used Languages -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevvalkolemen&show_icons=true&theme=transparent" alt="mustafakamber" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canerariik&show_icons=true&theme=transparent" /></p>
 
 <!-- Github Stats -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sevvalkolemen&show_icons=true&theme=transparent" alt="mustafakamber" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=canerariik&show_icons=true&theme=transparent" /></p>
   
   
   
