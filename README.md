@@ -24,7 +24,7 @@
 
 
 <!-- Most Used Languages -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canerariik&show_icons=true&hide_progress=true&hide=PowerShell" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canerariik&show_icons=true&hide_progress=true&hide=PowerShell,Batchfile" /></p>
 
 <!-- Github Stats -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=canerariik&show_icons=true&theme=dark" /></p>
