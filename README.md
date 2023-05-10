@@ -9,7 +9,7 @@
 
 - 🌱  I’m currently learning **Next.js and React.**
 
-- 💬 Ask me about **Java, EF, Python, Node.js, React...**
+- 💬 Ask me about **Java, .NET Core Web API, Python, JS, Node.js, React...**
 
 - 📫 How to reach me **canerariik@hotmail.com**
 
