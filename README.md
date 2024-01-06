@@ -5,11 +5,11 @@
 <!-- About me: -->
 <h3 align="left">About me:</h3>
 
-- 🔭  I’m currently working on **JavaScript.**
+- 🔭  I’m currently working on **Full Stack Developer.**
 
-- 🌱  I’m currently learning **Next.js and React.**
+- 🌱  I’m currently learning **React.js and .NET Framework.**
 
-- 💬 Ask me about **Java, API's, Python, JS, Node.js, Next.js, React...**
+- 💬 Ask me about **.NET ,Java, API's, Python, JS, React.js, Next.js, RDBMS...**
 
 - 📫 How to reach me **canerariik@hotmail.com**
 
